@@ -1,0 +1,10 @@
+{
+    "name": "profilebuilder/pb123",
+    "description": "profile builder app",
+    "type": "project",
+    "license": "j",
+    "minimum-stability": "stable",
+    "require": {
+        "phuml/phuml": "*"
+    }
+}
